@@ -103,6 +103,6 @@
     font-weight: var(--loading-font-weight);
 }
 
-.input-large.typing {
+#input-large.typing {
     background-color: var(--loading-bg-color);
 }
